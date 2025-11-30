@@ -12,8 +12,11 @@
 新的内容会被登记到这里，为了方便阅读。
 
 
-## 本论
+实现的基本途径是，flomo 或者shimo yuque 的记录，然后复制粘贴，归纳至此，实现长久的保存
 
+
+## 本论
+[不抱怨](https://github.com/devang668/beat-boundary/blob/main/basic/try_to_fnd_you.md#%E6%B0%B8%E8%BF%9C%E5%88%AB%E6%8A%B1%E6%80%A8)
 
 ## 婚恋
 
